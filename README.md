@@ -1,2 +1,0 @@
-# Assignment_1_Shyaka_Ntaganda_Yannick_29834
-PLSQL ASSIGNMENT ONE
